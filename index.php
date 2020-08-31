@@ -1,3 +1,3 @@
 <?php 
-include("home.html","login.html","join.html");
+include("home.html");
  ?>
